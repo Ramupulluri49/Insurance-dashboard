@@ -7,8 +7,7 @@ This project analyzes 57K+ motor insurance policies (2014–2018) to evaluate co
 The dashboard is designed to support decision-making by highlighting financial health and operational trends.
 
 ### Datasets used 
-
-
+<a href = "https://github.com/Ramupulluri49/Insurance-dashboard/blob/main/motor_data14-2018%20(1).zip">Dataset</a>
 ### 1 Business Questions Addressed
 
 How many policies are active, opened, and closed?
