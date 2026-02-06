@@ -1,12 +1,15 @@
 # Insurance-dashboard
 Motor Insurance Analytics Dashboard – Power BI
-📌 Project Overview
+## Project Overview
 
 This project analyzes 57K+ motor insurance policies (2014–2018) to evaluate company performance across premium collection, claims payout, profitability, and risk segmentation.
 
 The dashboard is designed to support decision-making by highlighting financial health and operational trends.
 
-🎯 Business Questions Addressed
+### Datasets used 
+
+
+### 1 Business Questions Addressed
 
 How many policies are active, opened, and closed?
 
@@ -18,7 +21,7 @@ How does claim behavior vary across categories?
 
 What are the year-wise trends (2014–2018)?
 
-📈 Key KPIs
+### 2 Key KPIs
 
 Total Policies: 57K+
 
@@ -32,7 +35,7 @@ Average Premium & Average Claim
 
 Claim Count
 
-🛠 Tools & Techniques Used
+### 3 Tools & Techniques Used
 
 Power BI
 
@@ -48,7 +51,7 @@ Conditional Formatting
 
 Scatter & Trend Analysis
 
-💡 Key Insights
+### 4 key Insights
 
 Profitability is highly dependent on premium-to-claims ratio.
 
@@ -59,8 +62,9 @@ Time-based filtering significantly changes performance interpretation.
 Ratio analysis provides clearer insight than raw totals.
 
 screenshot/demos
-show how the dashboard looks like - ![Dashboard Screenshot](dashboard.png)
+show how the dashboard looks like 
 
-Dashboard preview  (https://github.com/Ramupulluri49/Insurance-dashboard/blob/main/insurance%20dashboard.png) 
+#### Dashboard preview  
+<img width="1292" height="719" alt="insurance dashboard" src="https://github.com/user-attachments/assets/df92773d-d5c5-48ce-a6a9-815df1b60b21" />
 
 
