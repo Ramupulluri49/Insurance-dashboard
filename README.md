@@ -1,24 +1,24 @@
 # Insurance-dashboard
 Motor Insurance Analytics Dashboard – Power BI
-Project Overview
+📌 Project Overview
 
-This project analyzes 57,000+ motor insurance policies (2014–2018) to evaluate business performance, underwriting profitability, and risk distribution across vehicle segments.
+This project analyzes 57K+ motor insurance policies (2014–2018) to evaluate company performance across premium collection, claims payout, profitability, and risk segmentation.
 
-The dashboard is designed to support financial and operational decision-making rather than just display totals.
+The dashboard is designed to support decision-making by highlighting financial health and operational trends.
 
-Business Questions Addressed
+🎯 Business Questions Addressed
 
 How many policies are active, opened, and closed?
 
-How much premium is collected vs claims paid?
+Is the company profitable based on premium vs claims?
 
-Is the company operating at underwriting profit?
+Which vehicle segments contribute higher risk?
 
-Which vehicle categories carry higher claim risk?
+How does claim behavior vary across categories?
 
-How does profitability trend over time?
+What are the year-wise trends (2014–2018)?
 
-Key KPIs
+📈 Key KPIs
 
 Total Policies: 57K+
 
@@ -32,52 +32,35 @@ Average Premium & Average Claim
 
 Claim Count
 
-Premium-to-Claims ratio was used as the core profitability indicator.
-
-Tools & Techniques Used
+🛠 Tools & Techniques Used
 
 Power BI
 
-Data Modeling (Star Schema)
+Power Query (Data Cleaning & Transformation)
 
-Calendar Table Relationships
+DAX (KPI Measures & Ratio Calculations)
 
-Active & Inactive Date Relationships
-
-DAX Measures
-
-Conditional Formatting
+Calendar Table & Date Relationships
 
 Interactive Slicers
 
-KPI Cards & Visual Filters
+Conditional Formatting
 
-Key Insights
+Scatter & Trend Analysis
 
-Identified high-risk vehicle segments based on claim intensity.
+💡 Key Insights
 
-Observed profitability variation across years (2014–2018).
+Profitability is highly dependent on premium-to-claims ratio.
 
-Detected risk-heavy categories where premium pricing may require adjustment.
+Certain vehicle segments show higher claim intensity.
 
-Demonstrated how ratio-based analysis provides better insight than raw totals.
+Time-based filtering significantly changes performance interpretation.
 
-Skills Demonstrated
-
-Business KPI Modeling
-
-Financial Ratio Analysis
-
-DAX Measure Creation
-
-Data Cleaning with Power Query
-
-Dashboard Design for Decision Support
-
-Risk & Profitability Analysis
+Ratio analysis provides clearer insight than raw totals.
 
 screenshot/demos
-show how the dashboard looks like - 
+show how the dashboard looks like - ![Dashboard Screenshot](dashboard.png)
+
 Dashboard preview  (https://github.com/Ramupulluri49/Insurance-dashboard/blob/main/insurance%20dashboard.png) 
 
 
