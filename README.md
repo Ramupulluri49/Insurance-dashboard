@@ -77,6 +77,7 @@ Dashboard Design for Decision Support
 Risk & Profitability Analysis
 
 screenshot/demos
-show how the dashboard looks like 
+show how the dashboard looks like - 
+Dashboard preview  (https://github.com/Ramupulluri49/Insurance-dashboard/blob/main/insurance%20dashboard.png) 
 
 
